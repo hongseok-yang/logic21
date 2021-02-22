@@ -68,7 +68,7 @@ and arrange a way to participate in the test.
 
 ## 5. Tentative Plan
 
-* __**03/01(Mon) - NO LECTURE. National Holiday.**__
+* 03/01(Mon) - __**NO LECTURE.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ 
 * 03/03-03/10 - 
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
@@ -83,15 +83,15 @@ and arrange a way to participate in the test.
 * 04/07-04/14 - 
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
-* __**04/21(Wed) - NO LECTURE. Midterm Exam.**__
+* 04/21(Wed) - __**NO LECTURE.**__ Midterm Exam.
 * 04/19-04/28 - 
 * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/28-05/05 - 
-* __**05/05(Wed) - NO LECTURE. National Holiday.**__
+* 05/05(Wed) - __**NO LECTURE.**__ National Holiday.
 * 05/05-05/12 - 
 * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
-* __**05/19(Wed) - NO LECTURE. National Holiday.**__
+* 05/19(Wed) - __**NO LECTURE.**__ National Holiday.
 * 05/17-05/26 - 
 * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/26-06/02 - 
@@ -99,7 +99,7 @@ and arrange a way to participate in the test.
 * 06/02-06/09 - 
 * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
-* __**06/16(Wed) - NO LECTURE. Final Exam.**__
+* 06/16(Wed) - __**NO LECTURE.**__ Final Exam.
 
 ## 6. Lecture Notes and Slides
 

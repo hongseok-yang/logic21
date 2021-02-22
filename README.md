@@ -18,7 +18,7 @@ We will adopt the following scheme for handling late submissions for homework as
 
 #### [February 22] Honour code.
 
-We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F.
+We adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F.
 
 ## 2. Logistics
 
@@ -70,33 +70,35 @@ and arrange a way to participate in the test.
 
 * 03/01(Mon) - __**NO LECTURE.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ 
-* 03/03-03/10 - 
+* 03/03-03/10 - Watch two videos: [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/10-03/17 - 
+* 03/10-03/17 - Watch two videos: [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
 * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/17-03/24 - 
+* 03/17-03/24 - Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
 * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+* 03/24-03/31 - Watch two videos: [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
 * 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/31-04/07 - 
+* 03/31-04/07 - Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
 * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/07-04/14 - 
+* 04/07-04/14 - Watch two videos: [video1]() and [video2]().
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+* 04/14-04/21 - Watch one video: [video1]().
 * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 04/21(Wed) - __**NO LECTURE.**__ Midterm Exam.
-* 04/19-04/28 - 
+* 04/21-04/28 - Watch two videos: [video1]() and [video2]().
 * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/28-05/05 - 
+* 04/28-05/05 - Watch two videos: [video1]() and [video2]().
 * 05/05(Wed) - __**NO LECTURE.**__ National Holiday.
-* 05/05-05/12 - 
+* 05/05-05/12 - Watch two videos: [video1]() and [video2]().
 * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+* 05/17-05/26 - Watch two videos: [video1]() and [video2]().
 * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 05/19(Wed) - __**NO LECTURE.**__ National Holiday.
-* 05/17-05/26 - 
 * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/26-06/02 - 
+* 05/26-06/02 - Watch two videos: [video1]() and [video2]().
 * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/02-06/09 - 
+* 06/02-06/09 - Watch two videos: [video1]() and [video2]().
 * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 06/16(Wed) - __**NO LECTURE.**__ Final Exam.

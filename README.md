@@ -51,10 +51,10 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 We will run four in-class oral tests using ZOOM. During these tests, students will be randomly chosen and asked questions about topics covered by the course. We allocate 7.5% of the total marks of the course to each test. If a student does not attend one of the tests, she or he will get 0 for that test. The four tests will be scheduled on the following dates:
 
-* 03/29(M) - In-class oral test at ZOOM from 9:00am - 10:30am.
-* 04/19(M) (Midterm Exam Week) - In-class oral test at ZOOM from 9:00am - 10:30am.
-* 05/17(M) - In-class oral test at ZOOM from 9:00am - 10:30am.
-* 06/14(M) (Final Exam Week) - In-class oral test at ZOOM from 9:00am - 10:30am.
+* 03/29(Mon) - In-class oral test at ZOOM from 9:00am - 10:30am.
+* 04/19(Mon) (Midterm Exam Week) - In-class oral test at ZOOM from 9:00am - 10:30am.
+* 05/17(Mon) - In-class oral test at ZOOM from 9:00am - 10:30am.
+* 06/14(Mon) (Final Exam Week) - In-class oral test at ZOOM from 9:00am - 10:30am.
 
 We adopt the following policy for these tests.
 

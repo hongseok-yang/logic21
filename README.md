@@ -122,8 +122,17 @@ The recorded online lectures are based on the following lecture notes and slides
 * Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture13-slides.pdf)).
 * Decidable Theories. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture14-slides.pdf)).
 
-## 7. Programming Assignment and Report
+## 7. Critical Survey
 
-## 8. Critical Survey
+One important part of this course is to study an assigned topic for oneself, and write a survey about it, which also contains critiques or original thoughts of the student. This assignment accounts for the 10% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topic well, carried out in-depth studies on the topic, and thought hard and originally about it. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignment.
 
-## 9. Studying Materials
+1. Don't postpone this assignments until the last moment.
+2. A submission should be at most 3 pages not including bibliography.
+3. Topic: MaxSAT Solver.
+4. Deadline: __**23:59 of the 3rd of May in 2021 (Monday). Summit in KLMS.**__
+
+## 8. Programming Assignment and Report
+
+1. Deadline: __**23:59 of the 24th of May in 2021 (Monday). Summit your implementation and report in KLMS.**__
+
+## 9. Study Materials

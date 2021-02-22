@@ -105,6 +105,21 @@ and arrange a way to participate in the test.
 
 The recorded online lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haas's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics covered by the course.
 
+* History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture1-slides.pdf)).
+* Propositional Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture2-slides.pdf)).
+* Equivalences and Normal Forms. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture3-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture3-slides.pdf)).
+* Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture4-slides.pdf)).
+* Resolution. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture5-slides.pdf)).
+* The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture6-slides.pdf)).
+* The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture7-slides.pdf)).
+* First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture8-slides.pdf)).
+* Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture9-slides.pdf)).
+* Herbrand's Theorem and Ground Resolution. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture10-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture10-slides.pdf)).
+* Applications of Herbrand's Theorem. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture11-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture11-slides.pdf)).
+* Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture12-slides.pdf)).
+* Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture13-slides.pdf)).
+* Decidable Theories. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture14-slides.pdf)).
+
 ## 7. Programming Assignment and Report
 
 ## 8. Critical Survey

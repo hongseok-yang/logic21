@@ -103,7 +103,7 @@ and arrange a way to participate in the test.
 
 ## 6. Lecture Notes and Slides
 
-The recorded online lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haas's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics covered by the course.
+The recorded online lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haase's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics covered by the course.
 
 * History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture1-slides.pdf)).
 * Propositional Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture2-slides.pdf)).

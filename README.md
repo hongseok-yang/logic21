@@ -71,11 +71,11 @@ and arrange a way to participate in the test.
 * 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). 
 * 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
-* 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+  * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). Watch [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
-* 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+  * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). Watch [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
-* 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+  * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). Watch [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
 * 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch1 - Ch4.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.

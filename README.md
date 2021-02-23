@@ -70,35 +70,35 @@ and arrange a way to participate in the test.
 
 * 03/01(Mon) - __**NO LECTURE.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). 
-* 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). Watch two videos: [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
+* 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
+* 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). Watch [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
 * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
+* 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). Watch [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
 * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). Watch two videos: [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
+* 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). Watch [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
 * 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch1 - Ch4.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/31-04/07 - Resolution (Ch5) and The DPLL Algorithm (Ch6). Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
+* 03/31-04/07 - Resolution (Ch5) and The DPLL Algorithm (Ch6). Watch [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
 * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/07-04/14 - The DPLL Algorithm (Ch6) and The Compactness Theorem (Ch7). Watch two videos: [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
+* 04/07-04/14 - The DPLL Algorithm (Ch6) and The Compactness Theorem (Ch7). Watch [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/14-04/21 - The Compactness Theorem (Ch7) and First-Order Logic (Ch8). Watch one video: [video1](https://youtu.be/J5Xn2wVRAeo).
+* 04/14-04/21 - The Compactness Theorem (Ch7) and First-Order Logic (Ch8). Watch [video1](https://youtu.be/J5Xn2wVRAeo).
 * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch5 - Ch7.
 * 04/21(Wed) - __**NO LECTURE.**__ Midterm Exam.
-* 04/21-04/28 - First-Order Logic (Ch8) and Normal Forms for First-Order Logic (Ch9). Watch two videos: [video1](https://youtu.be/yj2g0bTj6v8) and [video2](https://youtu.be/nCenMVr8JkQ).
+* 04/21-04/28 - First-Order Logic (Ch8) and Normal Forms for First-Order Logic (Ch9). Watch [video1](https://youtu.be/yj2g0bTj6v8) and [video2](https://youtu.be/nCenMVr8JkQ).
 * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/28-05/05 - Normal Forms for First-Order Logic (Ch9) and Herbrand's Theorem and Ground Resolution (Ch10). Watch two videos: [video1](https://youtu.be/uddtGotfn6w) and [video2](https://youtu.be/JWjBqqNT8mY).
+* 04/28-05/05 - Normal Forms for First-Order Logic (Ch9) and Herbrand's Theorem and Ground Resolution (Ch10). Watch [video1](https://youtu.be/uddtGotfn6w) and [video2](https://youtu.be/JWjBqqNT8mY).
 * 05/05(Wed) - __**NO LECTURE.**__ National Holiday.
-* 05/05-05/12 - Watch two videos: [video1](https://youtu.be/Za3Ib8-XicQ) and [video2](https://youtu.be/wKehLsDALjE).
+* 05/05-05/12 - Herbrand's Theorem and Ground Resolution (Ch10) and Applications of Herbrand's Theorem (Ch11). Watch [video1](https://youtu.be/Za3Ib8-XicQ) and [video2](https://youtu.be/wKehLsDALjE).
 * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/17-05/26 - Watch two videos: [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
-* 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
+* 05/12-05/26 - Applications of Herbrand's Theorem (Ch11) and Resolution for First-Order Logic (Ch12). Watch [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
+* 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch8 - Ch11.
 * 05/19(Wed) - __**NO LECTURE.**__ National Holiday.
 * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/26-06/02 - Watch two videos: [video1](https://youtu.be/SzGiRIQTIDE) and [video2](https://youtu.be/SfRAdnDC2jw).
+* 05/26-06/02 - Resolution for First-Order Logic (Ch12) and Compactness for First-Order Logic (Ch13). Watch [video1](https://youtu.be/SzGiRIQTIDE) and [video2](https://youtu.be/SfRAdnDC2jw).
 * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/02-06/09 - Watch two videos: [video1](https://youtu.be/Gz2kXyywx7w) and [video2](https://youtu.be/H20s0lbXMvA).
+* 06/02-06/09 - Decidable Theories (Ch14). Watch [video1](https://youtu.be/Gz2kXyywx7w) and [video2](https://youtu.be/H20s0lbXMvA).
 * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 06/16(Wed) - __**NO LECTURE.**__ Final Exam.

@@ -77,9 +77,9 @@ and arrange a way to participate in the test.
 * 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
 * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). Watch two videos: [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
-* 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
+* 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch1 - Ch4.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/31-04/07 - Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
+* 03/31-04/07 - Resolution (Ch5) and The DPLL Algorithm (Ch6). Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
 * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/07-04/14 - Watch two videos: [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.

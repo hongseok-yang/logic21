@@ -81,24 +81,24 @@ and arrange a way to participate in the test.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/31-04/07 - Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
 * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/07-04/14 - Watch two videos: [video1]() and [video2]().
+* 04/07-04/14 - Watch two videos: [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/14-04/21 - Watch one video: [video1]().
+* 04/14-04/21 - Watch one video: [video1](https://youtu.be/J5Xn2wVRAeo).
 * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 04/21(Wed) - __**NO LECTURE.**__ Midterm Exam.
-* 04/21-04/28 - Watch two videos: [video1]() and [video2]().
+* 04/21-04/28 - Watch two videos: [video1](https://youtu.be/yj2g0bTj6v8) and [video2](https://youtu.be/nCenMVr8JkQ).
 * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/28-05/05 - Watch two videos: [video1]() and [video2]().
+* 04/28-05/05 - Watch two videos: [video1](https://youtu.be/uddtGotfn6w) and [video2](https://youtu.be/JWjBqqNT8mY).
 * 05/05(Wed) - __**NO LECTURE.**__ National Holiday.
-* 05/05-05/12 - Watch two videos: [video1]() and [video2]().
+* 05/05-05/12 - Watch two videos: [video1](https://youtu.be/Za3Ib8-XicQ) and [video2](https://youtu.be/wKehLsDALjE).
 * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/17-05/26 - Watch two videos: [video1]() and [video2]().
+* 05/17-05/26 - Watch two videos: [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
 * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 05/19(Wed) - __**NO LECTURE.**__ National Holiday.
 * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/26-06/02 - Watch two videos: [video1]() and [video2]().
+* 05/26-06/02 - Watch two videos: [video1](https://youtu.be/SzGiRIQTIDE) and [video2](https://youtu.be/SfRAdnDC2jw).
 * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/02-06/09 - Watch two videos: [video1]() and [video2]().
+* 06/02-06/09 - Watch two videos: [video1](https://youtu.be/Gz2kXyywx7w) and [video2](https://youtu.be/H20s0lbXMvA).
 * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 06/16(Wed) - __**NO LECTURE.**__ Final Exam.

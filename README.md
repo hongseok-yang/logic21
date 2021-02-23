@@ -68,7 +68,7 @@ and arrange a way to participate in the test.
 
 ## 5. Tentative Plan
 
-* 03/01(Mon) - __**NO LECTURE.**__ National Holiday.
+* 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). 
 * 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
@@ -85,23 +85,23 @@ and arrange a way to participate in the test.
 * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/14-04/21 - The Compactness Theorem (Ch7) and First-Order Logic (Ch8). Watch [video1](https://youtu.be/J5Xn2wVRAeo).
 * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch5 - Ch7.
-* 04/21(Wed) - __**NO LECTURE.**__ Midterm Exam.
+* 04/21(Wed) - __**NO ZOOM MEETING.**__ Midterm Exam Period.
 * 04/21-04/28 - First-Order Logic (Ch8) and Normal Forms for First-Order Logic (Ch9). Watch [video1](https://youtu.be/yj2g0bTj6v8) and [video2](https://youtu.be/nCenMVr8JkQ).
 * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/28-05/05 - Normal Forms for First-Order Logic (Ch9) and Herbrand's Theorem and Ground Resolution (Ch10). Watch [video1](https://youtu.be/uddtGotfn6w) and [video2](https://youtu.be/JWjBqqNT8mY).
-* 05/05(Wed) - __**NO LECTURE.**__ National Holiday.
+* 05/05(Wed) - __**NO ZOOM MEETING.**__ National Holiday.
 * 05/05-05/12 - Herbrand's Theorem and Ground Resolution (Ch10) and Applications of Herbrand's Theorem (Ch11). Watch [video1](https://youtu.be/Za3Ib8-XicQ) and [video2](https://youtu.be/wKehLsDALjE).
 * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/12-05/26 - Applications of Herbrand's Theorem (Ch11) and Resolution for First-Order Logic (Ch12). Watch [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
 * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch8 - Ch11.
-* 05/19(Wed) - __**NO LECTURE.**__ National Holiday.
+* 05/19(Wed) - __**NO ZOOM MEETING.**__ National Holiday.
 * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/26-06/02 - Resolution for First-Order Logic (Ch12) and Compactness for First-Order Logic (Ch13). Watch [video1](https://youtu.be/SzGiRIQTIDE) and [video2](https://youtu.be/SfRAdnDC2jw).
 * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 06/02-06/09 - Decidable Theories (Ch14). Watch [video1](https://youtu.be/Gz2kXyywx7w) and [video2](https://youtu.be/H20s0lbXMvA).
 * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
-* 06/16(Wed) - __**NO LECTURE.**__ Final Exam.
+* 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch12 - Ch14.
+* 06/16(Wed) - __**NO ZOOM MEETING.**__ Final Exam Period.
 
 ## 6. Lecture Notes and Slides
 

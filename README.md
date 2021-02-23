@@ -131,11 +131,11 @@ One important part of this course is to study an assigned topic for oneself, and
 3. Topic: MaxSAT Solver.
 4. Deadline: __**23:59 of the 3rd of May in 2021 (Monday). Summit in KLMS.**__
 5. Thinking about the following questions may help you.
-  i. What is a MaxSAT solver? 
-  ii. What are the most popular algorithms used for efficient modern MaxSAT solvers? Are the ideas from the DPLL algorithm and clause learning used in those solves? If so, why? If not, why not?
-  iii. What are the common applications of MaxSAT solvers? What would be a new interesting application for those solvers? For that application, do you expect that the algorithms for MaxSAT solvers or the interfaces to the solvers should be changed? If yes, how?
-  iv. How well do modern MaxSAT solvers perform? What are the most popular MaxSAT solvers?
-  v. What do you think should be the next step in the work on MaxSAT solvers?
+   1. What is a MaxSAT solver? 
+   2. What are the most popular algorithms used for efficient modern MaxSAT solvers? Are the ideas from the DPLL algorithm and clause learning used in those solves? If so, why? If not, why not?
+   3. What are the common applications of MaxSAT solvers? What would be a new interesting application for those solvers? For that application, do you expect that the algorithms for MaxSAT solvers or the interfaces to the solvers should be changed? If yes, how?
+   4. How well do modern MaxSAT solvers perform? What are the most popular MaxSAT solvers?
+   5. What do you think should be the next step in the work on MaxSAT solvers?
 
 ## 8. Programming Assignment and Report
 

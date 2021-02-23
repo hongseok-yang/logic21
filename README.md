@@ -198,14 +198,11 @@ v -7 0
 #### (7) What to Submit in KLMS?
 
 1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically.
-2.  1-2 page summary on what you did.
+2. 1-2 page summary on what you did.
 
 #### (8) Test Cases
 
-The following webpages contain benchmark problems in DIMACS format.
-
-[https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html)
-[http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.htm)
+The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.htm).
 
 #### (9) Final Remark
 

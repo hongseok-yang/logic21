@@ -69,10 +69,10 @@ and arrange a way to participate in the test.
 ## 5. Tentative Plan
 
 * 03/01(Mon) - __**NO LECTURE.**__ National Holiday.
-* 03/03(Wed) - __**[ZOOM Lecture]**__ 
-* 03/03-03/10 - Watch two videos: [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
+* 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). 
+* 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). Watch two videos: [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/10-03/17 - Watch two videos: [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
+* 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
 * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/17-03/24 - Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
 * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.

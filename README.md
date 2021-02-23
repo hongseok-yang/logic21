@@ -74,9 +74,9 @@ and arrange a way to participate in the test.
 * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
 * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/17-03/24 - Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
+* 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). Watch two videos: [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
 * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/24-03/31 - Watch two videos: [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
+* 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). Watch two videos: [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
 * 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test.
 * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 03/31-04/07 - Watch two videos: [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).

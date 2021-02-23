@@ -133,15 +133,21 @@ One important part of this course is to study an assigned topic for oneself, and
 
 ## 8. Programming Assignment and Report
 
+#### Topic, Deadline, and Programming Language to Use
+
 1. Topic: Implement a SAT solver using the DPLL algorithm with clause learning, which we cover in the course.
 2. Deadline: __**23:59 of the 24th of May in 2021 (Monday).**__ Summit both your implementation and report in KLMS.
 3. Language to use: Python 2.7 and 3.x.
-4. Input/output format.
-        1. Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
-        2. Assume that the input is always in CNF format.
-5. Specifications.
 
-(1) Input interface
+#### Format of Input and Output
+
+1. Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
+2. Assume that the input is always in CNF format.
+
+#### Specifications
+
+###### Input Interface
+
 The main file of your solver should be named as follows:
 
 solvepy2.py --- if you are using python 2.7
@@ -154,7 +160,8 @@ python3 solvepy3.py "testn.cnf" --- when solvepy3.py is found.
 
 Here "testn.cnf" is just an example name of a file containing a cnf formula in DIMACS format. Of course, different test cases will use different names.
 
-(2) Output interface
+###### Output Interface
+
 The output should specify SATISFIABLE/UNSATISFIABLE using s and give a partial assignment using v. So, if your solver is run
 
 python3 solvepy3.py "test1.cnf"
@@ -178,28 +185,20 @@ s SATISFIABLE
 v 2 5
 v -7 0
 
-5. What to submit in KLMS?
+#### What to Submit in KLMS?
 
-(1) Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically.
+1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically.
+2.  1-2 page summary on what you did.
 
-(2) 1-2 page summary on what you did.
-
-
-
-6. Test cases
+#### Test Cases
 
 The following webpages contain benchmark problems in DIMACS format.
 
-https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html
+[https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html)
+[http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.htm)
 
-http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html
-
-
-
-7. Final remark
+#### Final Remark
 
 The correctness matters the most. Make sure that your implementation handles corner cases correctly.
-
-
 
 ## 9. Study Materials

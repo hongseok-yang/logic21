@@ -69,7 +69,7 @@ and arrange a way to participate in the test.
 ## 5. Tentative Plan
 
 * 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
-* 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). 
+* 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). [video](https://youtu.be/DCTZ4bYxiA0).
 * 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). 
   * Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
   * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.

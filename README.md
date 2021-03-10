@@ -72,7 +72,7 @@ and arrange a way to participate in the test.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). ([video](https://youtu.be/DCTZ4bYxiA0)).
 * 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). 
   * Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
-  * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session.
+  * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard1.png),[whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard3.png), [whiteboard4](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard4.png)).
 * 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). 
   * Watch [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
   * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.

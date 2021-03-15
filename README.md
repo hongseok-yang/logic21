@@ -6,6 +6,12 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
+#### [March 15] [Homework1](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet1.pdf) is out.
+
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 31 March 2021 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [February 22] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for homework assignments and critical surveys. The scheme assumes that the total marks are 100.
@@ -46,6 +52,8 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 ## 3. Homework
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework1](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 31 March 2021 (Monday).
 
 ## 4. In-class Oral Tests
 

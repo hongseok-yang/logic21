@@ -103,7 +103,7 @@ and arrange a way to participate in the test.
   * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 04/07-04/14 - The DPLL Algorithm (Ch6) and The Compactness Theorem (Ch7). 
   * Watch [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
-  * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session. ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard3.png)).
+  * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard3.png)).
 * 04/14-04/21 - The Compactness Theorem (Ch7) and First-Order Logic (Ch8). 
   * Watch [video1](https://youtu.be/J5Xn2wVRAeo).
   * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch5 - Ch7.

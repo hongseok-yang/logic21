@@ -230,7 +230,7 @@ v -7 0
 
 #### 8.8. Test Cases
 
-The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.htm).
+The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html).
 
 #### 8.9. Final Remark
 

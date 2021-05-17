@@ -127,7 +127,7 @@ and arrange a way to participate in the test.
   * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/12-05/26 - Applications of Herbrand's Theorem (Ch11) and Resolution for First-Order Logic (Ch12). 
   * Watch [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
-  * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch8 - Ch11.
+  * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch8 - Ch11. ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test3.png), [whiteboard4](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test4.png)).
   * 05/19(Wed) - __**NO ZOOM MEETING.**__ National Holiday.
   * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
 * 05/26-06/02 - Resolution for First-Order Logic (Ch12) and Compactness for First-Order Logic (Ch13). 

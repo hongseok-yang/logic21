@@ -75,6 +75,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework1](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 31 March 2021 (Wednesday).
 * [Homework2](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet2.pdf) - Deadline: 6:00pm on 16 April 2021 (Friday).
 * [Homework3](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet3.pdf) - Deadline: 6:00pm on 14 May 2021 (Friday).
+* [Homework4](https://github.com/hongseok-yang/logic21/blob/master/Homework/sheet3.pdf) - Deadline: 6:00pm on 2 June 2021 (Wednesday).
 
 ## 4. In-class Oral Tests
 

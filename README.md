@@ -240,16 +240,25 @@ v -7 0
 
 #### 8.7. What to Submit in KLMS?
 
-1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically.
-2. 1-2 page summary on what you did.
+A zip file named "dpll.zip" containing two files:
+
+1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically. Locate a solvepy*.py file on the root of the zip file.
+2. 1-2 page summary on what you did. The report must be written by a word processor and submitted in a pdf format.(its file name doesn't matter) The report should contain brief explanation of your algorithm and code.
 
 #### 8.8. Test Cases
 
-The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html).
+The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html). Those problems have a little bit different format described in the DIMACS format above; clause can be expressed on several lines, ill-formatted end lines. Therefore, you may need to modify your code or the problems to test them. However, the test cases for grading will strictly obey the DIMACS format above.
+I uploaded a zip file [https://github.com/hongseok-yang/logic21/blob/master/Others/Test_Case.zip] containing some test cases we used before.
+If you implemented the dpll algorithm in the lecture correctly, then your code will return a result in 1 minute (tested in i7 7700HQ).
+These file are just samples. We will try cases with various difficulty.
+Though your code returns the reuslt in 1 minute for the samples, it doesn't guarantee that your code will get a full score.
+
 
 #### 8.9. Final Remark
 
-The correctness matters the most. Make sure that your implementation handles corner cases correctly.
+Make sure that your implementation handles corner cases correctly.
+There will be a timeout for each test case to check that you implemented the dpll algorithms in the lecture properly.
+
 
 ## 9. Study Materials
 
